@@ -1,5 +1,4 @@
 # Helm Apply Tool
-[![Build Status](https://travis-ci.org/OleConsignado/helm-apply.svg?branch=master)](https://travis-ci.org/OleConsignado/helm-apply)
 
 **Helm Apply Tool** is a command line tool designed to perform install and upgrade operations for Kubernetes Helm based configuration APPs hosted in a Version Control System (curretly supports Git and TFS).
 
